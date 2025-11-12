@@ -1,0 +1,5 @@
+{
+  "name": "AI POKEDEX - RENO",
+  "description": "A full client-side React application skeleton that uses IndexedDB for persistent local storage. It demonstrates basic CRUD (Create, Read, Update, Delete) operations.",
+  "requestFramePermissions": []
+}
